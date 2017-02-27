@@ -1,2 +1,5 @@
 # Hello-World
-Just trying to learn how to code
+
+Does anyone know how you are able to to tell if you are fluent in something.
+I feel like it should come naturally but I can't tell.
+Are you able to tell?
